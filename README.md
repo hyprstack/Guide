@@ -45,7 +45,7 @@ In the Windows powershell when changing directory you will want it to display th
 	Type: `git push` __SIMPLE!__
 
 	If this produces an error type the following instead (Note that consequent commands using the _push_ command will require only `git push`):
-	`git pust -u origin master`
+	`git push -u origin master`
 
 8. THAT'S IT! 
 
