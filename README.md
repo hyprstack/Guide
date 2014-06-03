@@ -9,7 +9,8 @@ To create a _repository_, also called a __repo__ for short, you will either have
 Once you have created the repo, open your _powershell_ (for windows) or command line for Mac and change directory to that of the previously created file. 
 From here you can start to add documents to your file.
 
-In the Windows powershell when changing directory you will want it to display the following message \[master .....\] 
+_In the Windows powershell when changing directory you will want it to display the following message \[master .....\]_.
+
 __This is good!__ 
 
 ------------------------------------------
