@@ -51,8 +51,9 @@ __This is good!__
 
 8. THAT'S IT! 
 
-##BUT..... 
-#####WHAT IF you want to change a file once you have logged-off or you want to add a new file to the repo?
+##BUT\.\.\.
+####WHAT IF you want to change a file once you have logged-off or you want to add a new file to the repo?
+==========================================================================================================
 
 First make the changes to your document and save them.
 
