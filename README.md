@@ -78,3 +78,9 @@ First make the changes to your document and save them.
 7. And if you need help remembering commands for github, simply type `git help`
 
 Hope this helps ;)
+
+## Free Resources for Learning Git
+
+- Excellent Online Tutorial: http://gitimmersion.com
+- GitHub for beginners: http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
+- Complete Book: http://git-scm.com/book
